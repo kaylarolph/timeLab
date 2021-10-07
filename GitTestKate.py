@@ -1,0 +1,1 @@
+# i am kinda cold and I am demostrating how Git works
